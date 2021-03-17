@@ -1,0 +1,19 @@
+.navbar{
+    justify-content: space-between;
+} 
+
+.text{
+    width: 100%;
+    padding: 5px;
+}
+
+.text > *{
+    width: 100%;
+}  
+
+
+.text > button {
+    width: 50%;
+   align-items: center;
+}
+
